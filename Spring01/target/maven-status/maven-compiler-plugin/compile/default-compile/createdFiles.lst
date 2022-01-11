@@ -1,0 +1,6 @@
+com\wahyu\controller\RegisterController.class
+com\wahyu\dao\UserController.class
+com\wahyu\controller\WebController.class
+com\wahyu\controller\HomeController.class
+com\wahyu\model\UserLogin.class
+com\wahyu\dao\RegisterDAO.class
